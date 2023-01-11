@@ -1,4 +1,4 @@
-# Rasa Chatbot Examples
+# 10 Rasa Chatbot Examples
 
 ### Introduction
 A collection of boilerplate templates for different chatbot usecases on RASA platform.
@@ -18,6 +18,5 @@ Here are the simple steps that you can follow to use a template:
 Being boilerplates, the bots does contain minimal training data for `stories` just enough to structure the conversation skeleton. Please don't forget to improve the conversations with `rasa interactive` command.
 
 ### Maintainers
-[@happycoding1106](https://github.com/happycoding1106).
+[@rodrica](https://github.com/rodrica).
 
-### Live Demo
